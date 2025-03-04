@@ -21,7 +21,9 @@ require_once './require/cookieLogin.php';
                 File count: <?php echo $user['fileCount']; ?><br>
                 Including deleted: <?php echo $user['fileCountWDel']; ?>
                 <div class="btnWrapper"><div class="button" id="reset">Reset Key</div></div>
+                <p>Account Password Change:</p>
                 <div class="btnWrapper"><div class="button" id="pwdButton">Change password</div></div>
+                <br>
                 <form id="form" action="post/resetPwd.php" method="post">
                     <div class="paddingtop formContainer">
                         <div class="inForm">Old password</div>
