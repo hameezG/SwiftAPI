@@ -1,0 +1,3 @@
+curl -X POST http://localhost/fmc/src/api/upload.php ^
+     -F "key=N2NiYfPUOEOdN6GKCP3CEHQCVZcIBbf3CdAhHEIbLclI" ^
+     -F "file=@C:\Users\ShumSher Returns\Desktop\test.png"
