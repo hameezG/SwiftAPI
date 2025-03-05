@@ -9,7 +9,7 @@ The File Management System (FMC) is a web-based application that allows users to
 - **FA22-BSE-061** - Muhammad Zeeshan Saleem
 
 ## Features
-- User authentication with API key
+- User authentication with API key (API in terms of access key)
 - File uploading and downloading
 - File organization (mark as important, delete, etc.)
 - Secure password handling with hashing
@@ -21,7 +21,7 @@ The File Management System (FMC) is a web-based application that allows users to
 - **Database:** MySQL
 - **Frontend:** HTML, CSS, JavaScript
 - **Server:** XAMPP
-- **API Testing:** cURL, Postman
+
 
 ## Installation & Setup
 1. Install **XAMPP** and start Apache & MySQL.
