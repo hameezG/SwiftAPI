@@ -4,9 +4,9 @@
 The File Management System (FMC) is a web-based application that allows users to upload, manage, and organize their files efficiently. It provides user authentication, file categorization, and API-based file handling.
 
 ## Team Members
-- **FA22-BSE-038**
-- **FA22-BSE-012**
-- **FA22-BSE-061**
+- **FA22-BSE-038** - Hameez Ahmad
+- **FA22-BSE-012** - Hasan Asif
+- **FA22-BSE-061** - Muhammad Zeeshan Saleem
 
 ## Features
 - User authentication with API key
@@ -75,5 +75,17 @@ curl -X POST http://localhost/fmc/src/api/upload.php \
 - **FA22-BSE-038**
 - **FA22-BSE-012**
 - **FA22-BSE-061**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
